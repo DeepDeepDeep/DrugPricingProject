@@ -1,2 +1,2 @@
-# DrugPricingProject
-STAT 3355 Project from 2021
+# Analyzing Drug Pricing and Federal Contracts - STAT 3355 Project from 2021
+ - Medical care costs and rising drug prices have been dark topics looming over the minds of Americans for many years now, with the Stanford Institute for Economic Policy Research estimating nationwide collective medical debt of at least $140 billion. We took this project as an opportunity to see if there was any validity behind the claims of increased drug prices, as well as to gain better insight into the federal government’s involvement in the pharmaceutical market. 
